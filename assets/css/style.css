@@ -36,7 +36,7 @@ body {
 a:hover,
 button,
 select {
-  cursor: url("./cursor/link.cur"), pointer;
+  cursor: url("https://drive.google.com/file/d/1ASz1RivpWjS8cIkO69ZTlhS2ERefTi-c/view?usp=drivesdk"), pointer;
 }
 
 input,
